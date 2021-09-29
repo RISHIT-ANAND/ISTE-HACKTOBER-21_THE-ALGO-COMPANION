@@ -46,7 +46,7 @@ CP helps you learn how to effectively work together, as you must work with other
 
 Participating in CP contests makes you a desirable candidate for big companies. In CP organizer websites and companies, these big companies always have a look and they pick the candidates with high potential and with the best ability to solve complex tasks.
 
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages allowed in this contest for Competitive Coding are   </h2>
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages allowed for Competitive Coding are   </h2>
 
 - PYTHON <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 

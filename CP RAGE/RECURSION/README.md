@@ -9,6 +9,32 @@
 ![image](https://user-images.githubusercontent.com/77975418/135303750-3d3a0231-1ce2-468c-9eb6-83690582b3df.png)
 
 <h2>Recursion is really easy to understand. It is essentially a function calling itself.<h2>
+
+# Fundamental Concepts of Recursion
+	
+> <h4>Base Case</h4>
+	
+The base case (or base condition) is the state where the program’s solution has been reached. Recursive methods are built with two paths: the method first checks if the base state has been reached, if yes, the method ends and returns the current data, if not the method instead goes the other path and executes the recursive case, altering the input and calling the method again.
+
+**To help contextualize this, consider a hypothetical example.**
+
+Imagine a search program’s base case is when a searched value is found, or value_searched = cell_value. If the values don’t match, the currently selected cell isn’t the solution.
+
+The method then executes the recursive step, selecting another item in the data set and calls the method again using this new cell as input.
+
+If we did not have the base case, the program would simply repeat the recursive step and therefore scroll the data set infinitely.
+
+<br>
+
+> <h4>Call Stack</h4>
+
+The call stack is an integrated, hidden data structure within all modern programing languages. By storing active subroutines in a stack structure, the program is able to execute subroutines in the order they were received.
+
+Each recursive call in a program causes a nesting effect in the call stack, adding more subroutines that must be finished before the stack is empty.
+
+Broadly speaking, the larger the call stack, the more memory and time that is needed for the program to run.
+
+<hr>
   
 # ILLUSTRATION BY CODE:
 Just imagine writing a function that calculates the factorial of a number n (n!). 

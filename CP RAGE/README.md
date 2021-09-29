@@ -50,7 +50,7 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 
 - PYTHON <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 	
-- REACT JS <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+- KOTLIN <img width ='100px' src ='![image](https://user-images.githubusercontent.com/77975418/135340690-80baf311-db55-4750-87d9-9c254b11104c.png)'> </a>
 	
 - JAVASCRIPT <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 	

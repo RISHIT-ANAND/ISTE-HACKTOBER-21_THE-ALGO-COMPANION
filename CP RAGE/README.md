@@ -49,8 +49,10 @@ Participating in CP contests makes you a desirable candidate for big companies. 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages allowed in this contest for Competitive Coding are   </h2>
 
 - PYTHON <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+
+- JAVA <img width ='70px' src ='https://user-images.githubusercontent.com/77975418/135342048-728293fd-46fc-4238-821d-9084a316fadb.png'> </a>
 	
-- KOTLIN <img width ='100px' src ='![image](https://user-images.githubusercontent.com/77975418/135340690-80baf311-db55-4750-87d9-9c254b11104c.png)'> </a>
+- KOTLIN <img width ='70px' src ='https://user-images.githubusercontent.com/77975418/135341848-06ef8ce5-899e-495b-a6bf-841fad982105.png'> </a>
 	
 - JAVASCRIPT <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 	

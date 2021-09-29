@@ -12,7 +12,7 @@
 
 # Fundamental Concepts of Recursion
 	
-> <h4>Base Case</h4>
+> <h4> ** Base Case ** </h4>
 	
 The base case (or base condition) is the state where the program’s solution has been reached. Recursive methods are built with two paths: the method first checks if the base state has been reached, if yes, the method ends and returns the current data, if not the method instead goes the other path and executes the recursive case, altering the input and calling the method again.
 
@@ -26,7 +26,7 @@ If we did not have the base case, the program would simply repeat the recursive 
 
 <br>
 
-> <h4>Call Stack</h4>
+> <h4> ** Call Stack** </h4>
 
 The call stack is an integrated, hidden data structure within all modern programing languages. By storing active subroutines in a stack structure, the program is able to execute subroutines in the order they were received.
 

@@ -1,4 +1,4 @@
-# ISTE-HACTOBER-21--DRAFT
+# ISTE-HACTOBER-21-DRAFT
 
 This is will consist the readme for the Hactober 21 by ISTE
 
@@ -10,3 +10,7 @@ This is will consist the readme for the Hactober 21 by ISTE
 
 
 
+<hr>
+<p align="center">
+	With :heart: &nbsp;by <a href="https://istevit.in/" target="_blank">ISTE-VIT</a>
+</p>

@@ -91,4 +91,4 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <hr>
 
-#HAPPY CODING :money_mouth_face:
+# HAPPY CODING :money_mouth_face:

@@ -1,5 +1,10 @@
+<h1> Hello Fellow < Techies/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
+Welcome To
+	</h1>
+
 [![image](https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png)](https://hacktoberfest.digitalocean.com/)
-# HACKTOBERFEST 2021
+	<h1> <p align ="center"> HACKTOBERFEST 2021 </p> </h1>
 
 <h2> <p align ="center"> Open source is changing the world – one contribution at a time </p> </h2>
 

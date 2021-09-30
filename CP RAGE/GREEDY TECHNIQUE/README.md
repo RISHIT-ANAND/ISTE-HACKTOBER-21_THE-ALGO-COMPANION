@@ -8,13 +8,13 @@
 
 <hr>
 
-# How do you decide which choice is optimal?
+# :thinking:How do you decide which choice is optimal?
 
 > Assume that you have an objective function that needs to be optimized (either maximized or minimized) at a given point. A Greedy algorithm makes greedy choices at each step to ensure that the objective function is optimized. The Greedy algorithm has only one shot to compute the optimal solution so that it never goes back and reverses the decision.
 
 <hr>
 
-# How to create a Greedy Algorithm?
+# :pencil:How to create a Greedy Algorithm?
 
 > Being a very busy person, you have exactly T time to do some interesting things and you want to do maximum such things.
 You are given an array A of integers, where each element indicates the time a thing takes for completion. You want to calculate the maximum number of things that you can do in the limited time that you have.
@@ -58,7 +58,7 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <hr>
 
-# Implementation
+# :computer:Implementation
 
     #include <iostream>
     #include <algorithm>
@@ -91,4 +91,4 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <hr>
 
-# HAPPY CODING :money_mouth_face:
+<h1><p align="center"># HAPPY CODING :money_mouth_face:	</p></h1>

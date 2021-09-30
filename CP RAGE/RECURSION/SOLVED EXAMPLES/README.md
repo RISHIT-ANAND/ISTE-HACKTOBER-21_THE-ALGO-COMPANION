@@ -1,4 +1,4 @@
-# REAL TIME ILLUSTRATION ON RECURSION
+# :hourglass:REAL TIME ILLUSTRATION ON RECURSION
 
 > The below real life example consists of 3 kids who seeks a permission for  meet up.
 
@@ -19,7 +19,7 @@
 <hr>
 
 
-# CODE + PICTORIAL ILLUSTRATIONS:
+# :keyboard:CODE + PICTORIAL ILLUSTRATIONS:
 
 > Shown below is a pictorial represetation of base condition and call stack for factorial of a number.
 
@@ -56,3 +56,11 @@
 
 <hr>
 
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
+
+
+<hr>
+
+<h1><p align="center"> HAPPY CODING :man_technologist:	</p></h1>

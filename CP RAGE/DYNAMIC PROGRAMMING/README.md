@@ -146,6 +146,12 @@ void fib ()
 
 <hr>
 
+
+<h3> For better understanding on DYNAMIC PROGRAMMING, refer the [Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACKTOBER-21_THE-ALGO-COMPANION/tree/main/CP%20RAGE/DYNAMIC%20PROGRAMMING/SOLVED%20EXAMPLES)</h3>
+
+
+<hr>
+
 <h1> <p align ="center"> HAPPY CODING :man_technologist:</p> </h1>
 
 <hr>

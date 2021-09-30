@@ -137,7 +137,7 @@ void fib ()
 <hr>
 
 
-Every Dynamic Programming problem has a schema to be followed:
+**Every Dynamic Programming problem has a schema to be followed:**
 
 - Show that the problem can be broken down into optimal sub-problems.
 - Recursively define the value of the solution by expressing it in terms of optimal solutions for smaller sub-problems.

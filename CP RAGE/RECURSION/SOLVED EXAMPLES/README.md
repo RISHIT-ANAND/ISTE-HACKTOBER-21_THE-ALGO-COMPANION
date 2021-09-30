@@ -21,10 +21,10 @@
 
 # :keyboard:CODE + PICTORIAL ILLUSTRATIONS:
 
-> Shown below is a pictorial represetation of base condition and call stack for factorial of a number.
+> <h3> Shown below is a pictorial represetation of base condition and call stack for factorial of a number. </h3>
 
 
-<h2> The code is provided in the 
+<h2> :star:The code is provided in the 
  
 [Factorial File](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/RECURSION/SOLVED%20EXAMPLES/FACTORIAL)</h2>
 
@@ -40,9 +40,9 @@
 
 <hr>
 
-> Here's another example on recursion explaining the **Sum of Numbers**.
+> <h3> Here's another example on recursion explaining the Sum of Numbers. </h3>
 
-<h2> The code is provided in the 
+<h2> :star:The code is provided in the 
  
 [Sum Of Numbers file](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/RECURSION/SOLVED%20EXAMPLES/SUM%20OF%20NUMBERS)</h2>
 

@@ -1,4 +1,4 @@
-# DYNAMIC PROGRAMMING
+# :man_technologist:DYNAMIC PROGRAMMING:woman_technologist:
 
 > <h2>  Dynamic programming is basically, recursion plus using common sense. </h2>
 
@@ -32,7 +32,7 @@
 > If you are given a problem, which can be broken down into smaller sub-problems, and these smaller subproblems can still be broken into smaller ones - and if you manage to find out that there are some overlapping subproblems, then you've encountered a DP problem
 
 
-The intuition behind dynamic programming is that we trade space for time, i.e. to say that instead of calculating all the states taking a lot of time but no space, we take up space to store the results of all the sub-problems to save time later.
+🎯The intuition behind dynamic programming is that we trade space for time, i.e. to say that instead of calculating all the states taking a lot of time but no space, we take up space to store the results of all the sub-problems to save time later.
 
 
 <hr>
@@ -60,7 +60,7 @@ The intuition behind dynamic programming is that we trade space for time, i.e. t
 <hr>
 
 
-<h2> Let's try to understand this by taking an example of Fibonacci numbers. </h2>
+<h2> 🎯Let's try to understand this by taking an example of Fibonacci numbers. </h2>
 
 ```
 Fibonacci (n) = 1; if n = 0
@@ -75,7 +75,7 @@ Fibonacci (n) = Fibonacci(n-1) + Fibonacci(n-2)
 
 
 
-<h2> A code for it using pure recursion:</h2>
+<h2> :keyboard:A code for it using pure recursion:</h2>
 
 ```
  
@@ -94,7 +94,7 @@ Fibonacci (n) = Fibonacci(n-1) + Fibonacci(n-2)
 ```
     
     
-<h2> Using Dynamic Programming approach with memoization: </h2>
+<h2> :keyboard:Using Dynamic Programming approach with memoization: </h2>
 
 ```
 
@@ -119,7 +119,7 @@ void fib ()
 <hr>
 
 
-<h3> Are we using a different recurrence relation in the two codes? No. Are we doing anything different in the two codes? Yes. </h3>
+<h3> :star:Are we using a different recurrence relation in the two codes? No. Are we doing anything different in the two codes? Yes. </h3>
 
 > In the recursive code, a lot of values are being recalculated multiple times. We could do good with calculating each unique quantity only once. Take a look at the image to understand that how certain values were being recalculated in the recursive way:
 

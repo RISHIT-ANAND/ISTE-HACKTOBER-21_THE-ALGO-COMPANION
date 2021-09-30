@@ -1,6 +1,6 @@
-# CODE + PICTORIAL REPRESENTATION
+# :computer:CODE + PICTORIAL REPRESENTATION:framed_picture:
 
-<h2> 1. BINARY EXPONENTIATION </h2>
+<h2>:one:BINARY EXPONENTIATION </h2>
 
 - When we are asked to find the powers of a particular number the normal (or naïve) way to do it will be to multiply the same number ‘n-1’ times. 
 
@@ -11,7 +11,7 @@
 
 <br>
 
-**This amazing method is called Binary Exponentiation.**
+<h3>This amazing method is called Binary Exponentiation.<h3>
 
 <hr>
 
@@ -45,7 +45,7 @@ Where at each step we’ll divide the number and call the function again until w
 
 <hr>
 
-<h2> 2. MAX ELEMENT IN AN ARRAY </h2>
+<h2> :two:MAX ELEMENT IN AN ARRAY </h2>
 
 > Moving from binary exponentiation we face another intriguing problem which is to find the maximum element in an array. 
 > While it may sound simple and you even might be thinking of a solution that would work! this simple problem stands the base for many other fascinating problems that you’ll solve in your coding journey.
@@ -67,3 +67,4 @@ Where at each step we’ll divide the number and call the function again until w
 
 <hr>
 
+<h1><p align="center"> HAPPY CODING :man_technologist:	</p></h1>

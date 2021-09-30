@@ -24,14 +24,21 @@
 
 <hr>
 
-> 2. Let’s take another example, 
-- Let’s say a firm wants to develop a killer Application to extend its reach, developing a project is not an easy task, and one person cannot handle everything that makes the success of the product, so the firm divides the problem into manageable sub-problems for their ‘Technical Team’ and ‘Management Team’ to solve. 
-- But wait, developing an application is not that easy either, so the application is further divided into manageable sub-tasks so that their ‘Web Dev’ Team and ‘ML’ Team can work on and the ‘Testing’ Team can test the final product.  
-- In the same way, there are a lot of different managerial decisions need to be taken and implemented to make the application a success, since it’s an harder task, it’s further divided into manageable sub-tasks given to ‘PR-Works team’ and ‘Documentation Team’ who take Managerial decisions on the application developed (or the problem solved) by the development team, hence by reconstructing or combining the application (or answers) you got from the Technical Team and Management Team, a bigger problem of Developing the Killer Application will be solved.
+> 2. Let’s take another example:
+
+![EX](https://user-images.githubusercontent.com/77975418/135487157-5fa1f9f0-5f04-4bcb-8461-5dbdcd44697d.jpg)
+
+
+
+> - Let’s say a firm wants to develop a killer Application to extend its reach, developing a project is not an easy task, and one person cannot handle everything that makes the success of the product, so the firm divides the problem into manageable sub-problems for their ‘Technical Team’ and ‘Management Team’ to solve. 
+
+> - But wait, developing an application is not that easy either, so the application is further divided into manageable sub-tasks so that their ‘Web Dev’ Team and ‘ML’ Team can work on and the ‘Testing’ Team can test the final product.  
+
+> - In the same way, there are a lot of different managerial decisions need to be taken and implemented to make the application a success, since it’s an harder task, it’s further divided into manageable sub-tasks given to ‘PR-Works team’ and ‘Documentation Team’ who take Managerial decisions on the application developed (or the problem solved) by the development team, hence by reconstructing or combining the application (or answers) you got from the Technical Team and Management Team, a bigger problem of Developing the Killer Application will be solved.
 
 <hr>
 
-To better understanding through graphical + code illustration go to the [Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)
+For better understanding through graphical + code illustration go to the [Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)
 
 <hr>
 

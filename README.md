@@ -1,32 +1,40 @@
 <h1> Hello Fellow < Techies/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-Welcome To
+Welcome To :man_technologist: :woman_technologist:
 	</h1>
 
 [![image](https://user-images.githubusercontent.com/77975418/135464314-850bc467-dba8-45dd-9de1-83263581d005.png)](https://hacktoberfest.digitalocean.com/)
 	<h1> <p align ="center"> HACKTOBERFEST 2021 </p> </h1>
 
 <h2> <p align ="center"> Open source is changing the world – one contribution at a time </p> </h2>
+        
+<hr>
+        
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
+        
+        
 
 <hr>
 
-> Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt.
+> Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2021 challenge and earn a limited edition T-shirt. :tshirt:
 
 <hr>
 
-# What is HACKTOBERFEST?
+# :thinking: What is HACKTOBERFEST?
 
 
-> Hacktoberfest is a month-long celebration of open source software. 
+> Hacktoberfest is a month-long celebration of open source software. :man_technologist:
 
 > During the month of October, you are invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. 
 
 > Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.
+	
 
 	
 <hr>
 
-# More on OPEN SOURCE CONTRIBUTION:
+# 🎯More on OPEN SOURCE CONTRIBUTION:
 
 - Open source refers to source code that is made available to the public to view, use, modify, and distribute under a license. It’s usually developed and maintained collaboratively by a community of its users. 
 - Although the main point of  open source projects is to create valuable and accessible open source software, individual contributors can get plenty of personal benefit from contributing to them. 
@@ -35,9 +43,9 @@ Welcome To
 <hr>
 
 
-# Perks of Open Source Contribution:
+# :gift:Perks of Open Source Contribution:
 
-> Aside from the knowledge you’ll gain and the fun you’ll have **you can earn a limited-edition Hacktoberfest t-shirt**.
+> Aside from the knowledge you’ll gain and the fun you’ll have **you can earn a limited-edition Hacktoberfest t-shirt :tshirt: :tshirt:**.
 
 <hr>
 
@@ -48,7 +56,7 @@ Welcome To
 
 <hr>
 
-# PROJECTS provided by us for OPEN SOURCE CONTRIBUTION:
+# :computer:PROJECTS provided by us for OPEN SOURCE CONTRIBUTION:
 
 <h2> We are providing a variety of projects starting from a beginner level to a expertise level.</h2>
 

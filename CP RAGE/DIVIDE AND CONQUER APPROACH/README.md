@@ -8,6 +8,11 @@
 
 <hr>
 
+![image](https://user-images.githubusercontent.com/77975418/135478441-f48bd76e-3666-4ae3-a8cb-ac531cd29279.png)
+
+<hr>
+  
+  
 <h2> Don’t get it? Don’t worry we got you!</h2>
   
   

@@ -91,4 +91,4 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <hr>
 
-<h1><p align="center"># HAPPY CODING :money_mouth_face:	</p></h1>
+<h1><p align="center">HAPPY CODING :money_mouth_face:	</p></h1>

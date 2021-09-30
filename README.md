@@ -16,9 +16,14 @@ Welcome To
 
 # What is HACKTOBERFEST?
 
-> Hacktoberfest is a month-long celebration of open source software. During the month of October, you are invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. 
+
+> Hacktoberfest is a month-long celebration of open source software. 
+
+> During the month of October, you are invited to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. 
+
 > Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.
 
+	
 <hr>
 
 # More on OPEN SOURCE CONTRIBUTION:

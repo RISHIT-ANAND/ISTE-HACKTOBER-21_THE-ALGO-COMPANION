@@ -91,4 +91,12 @@ This is a simple Greedy-algorithm problem. In each iteration, you have to greedi
 
 <hr>
 
+        
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
+
+
+<hr>
+
+
 <h1><p align="center">HAPPY CODING :money_mouth_face:	</p></h1>

@@ -1,4 +1,4 @@
-# THE DIVIDE AND CONQUER APPROACH
+# THE DIVIDE AND CONQUER APPROACH<img src = "https://user-images.githubusercontent.com/77975418/135521510-c561417d-661b-459d-a537-8bbd06122426.png" height = 70px>
 
 > Sometimes when you’re trying to solve a problem, you would feel as if “Hmm, the problem is pretty big to solve on one go” and you would break the problem into halves or quarters and try to solve it. 
 
@@ -13,10 +13,10 @@
 <hr>
   
   
-<h2> Don’t get it? Don’t worry we got you!</h2>
+<h2> Don’t get it? Don’t worry we got you!:sunglasses:</h2>
   
   
-> 1. Think of a scenario where you might be asked to write an essay, what will you do? Write the whole essay in one go?  But what is a smarter way to do it? 
+> <h3> 1. Think of a scenario where you might be asked to write an essay, what will you do? Write the whole essay in one go?  But what is a smarter way to do it? </h3>
 
 - An essay is composed of paragraph, a paragraph is composed of sentences, sentences are composed of words and the words are not that hard to write, aren’t they?
 - You realize writing a whole essay in one go is harder so you break the problem into manageable sized paragraph, writing paragraphs are harder so you break it into manageable sized sentences, still if it’s hard you break the sentences into manageable words. 
@@ -24,7 +24,7 @@
 
 <hr>
 
-> 2. Let’s take another example:
+> <h3> 2. Let’s take another example: </h3>
 
 ![EX](https://user-images.githubusercontent.com/77975418/135487157-5fa1f9f0-5f04-4bcb-8461-5dbdcd44697d.jpg)
 
@@ -38,7 +38,21 @@
 
 <hr>
 
-For better understanding through graphical + code illustration go to the [Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES)
+<h3> For better understanding through graphical + code illustration go to the 
+  
+[Solved Examples](https://github.com/RISHIT-ANAND/ISTE-HACTOBER-21--DRAFT/blob/main/CP%20RAGE/DIVIDE%20AND%20CONQUER%20APPROACH/SOLVED%20EXAMPLES) 
+
+</h3>
+
+
+
+<hr>
+
+        
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://hacktoberfest.digitalocean.com/)&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]()&nbsp;
+        
+        
 
 <hr>
 

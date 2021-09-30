@@ -55,6 +55,43 @@ Welcome To :man_technologist: :woman_technologist:
 - Your pull requests will count toward your participation if they are accepted by the maintainer.
 
 <hr>
+	
+## Steps to Contribute 
+- Fork this repo 
+- Clone on your local machine 
+```terminal
+git clone https://github.com/<your username>/hacktoberfest.git
+cd hacktoberfest
+```
+- Create a new branch 
+```terminal
+git checkout -b my-new-branch
+```
+- Add your contributions 
+- Commit and push
+
+```terminal
+git add .
+git commit -m "your-commit-msg"
+git push origin my-new-branch
+```
+- Create a new pull request from your forked repository
+
+	
+<hr>
+	
+
+## Contribution Guidelines 📃
+
+#### Kindly mention the following while making a PR:
+* If the PR is not in the right format, it will not be merged and marked as invalid.
+* Don't make any changes in the repo format or create new issues without asking the maintainers.
+* You can make a new folder if a particular topic is missing.
+
+	
+<hr>
+	
+
 
 # :computer:PROJECTS provided by us for OPEN SOURCE CONTRIBUTION:
 

@@ -87,6 +87,8 @@ git push origin my-new-branch
 * If the PR is not in the right format, it will not be merged and marked as invalid.
 * Don't make any changes in the repo format or create new issues without asking the maintainers.
 * You can make a new folder if a particular topic is missing.
+* Commit new changes in respective folders, explaining the change you want to do else you can make a new folder if a particular topic is missing.
+* Avoid duplications.
 
 	
 <hr>

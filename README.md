@@ -81,7 +81,7 @@ git push origin my-new-branch
 <hr>
 	
 
-## Contribution Guidelines 📃
+## 📃Contribution Guidelines
 
 #### Kindly mention the following while making a PR:
 * If the PR is not in the right format, it will not be merged and marked as invalid.
